@@ -1,0 +1,80 @@
+SKYTEAM AEROSPACE FOUNDATION
+Non-Commercial Research License (SAF-NCRL v1.0)
+Copyright © 2025 Zenith Zaraki / SkyTeam Aerospace Foundation.
+All rights reserved.
+This repository contains theoretical, mathematical, architectural, and computational frameworks developed by the SkyTeam Aerospace Foundation (“SAF”), including but not limited to:
+•	The Dynamic Transformer Architecture (DTA)
+•	The Internal Model Supervisor (IMS)
+•	The Recursive Integration Operator (RIO)
+•	The Temporal Persistence Core (TPC)
+•	The Awareness Equation and associated fields (S, T, I, C, N)
+•	The Field of General Awareness (FoGA)
+•	Any derivative state-evolution, stability-regulated, or recursive computational systems
+•	Associated source code, pseudocode, diagrams, documentation, and research notes
+These works are protected under U.S. and international copyright law and are released under the following license terms.
+________________________________________
+1. Permitted Uses
+You may:
+•	View, clone, and fork this repository.
+•	Use the contents solely for academic, educational, or personal research purposes.
+•	Reference or cite the work in scientific publications, provided proper attribution is included (see Section 6).
+•	Experiment with non-commercial prototypes that demonstrate or analyze the behavior of SAF theoretical constructs.
+All rights not expressly granted are reserved.
+________________________________________
+2. Prohibited Uses
+Without prior written permission from the copyright holder, you may NOT:
+•	Use this work for commercial purposes, including any product, service, startup, monetized platform, or revenue-generating activity.
+•	Incorporate SAF frameworks into proprietary machine learning systems, including internal company tooling.
+•	Use, modify, or deploy the work for governmental, intelligence, or military applications.
+•	Host derivative implementations as public APIs or SaaS offerings.
+•	Train commercial machine learning models on SAF equations, architectures, or code.
+•	Redistribute modified versions under any license.
+Any such use constitutes copyright infringement and violation of licensing terms.
+________________________________________
+3. No Rights to Patent, Trademark, or Commercial Derivatives
+This license does not grant:
+•	Patent rights
+•	Trademark rights
+•	Rights to implement SAF architectures in commercial ML runtimes
+•	Rights to use SAF theoretical frameworks as the basis for commercial derivative works
+Commercial licensing inquiries may be directed to:
+admin@skyteamaerospacefoundation.com
+________________________________________
+4. Modification and Redistribution
+You may not publicly distribute:
+•	Modified versions of the SAF theoretical frameworks
+•	Derivative source code
+•	Simplified or adapted forms of the DTA, RIO, IMS, or FoGA equations
+•	Forks of this repository containing new or altered implementations
+Private, local experimentation is permitted as long as it remains non-commercial.
+________________________________________
+5. Warranty Disclaimer
+This work is provided “as is” with no warranty of any kind.
+SAF assumes no liability for:
+•	Loss of data
+•	System instability
+•	Misuse of theoretical constructs
+•	Damages resulting from implementation errors
+Use at your own risk.
+________________________________________
+6. Required Attribution
+Any academic or research use must cite:
+Zaraki, Z. (2025). SkyTeam Aerospace Foundation — Dynamic Transformer Architecture and Associated State-Evolution Frameworks. Preprint.
+Additionally include the attribution clause:
+“This work incorporates theoretical and computational frameworks developed by the SkyTeam Aerospace Foundation under the SAF-NCRL v1.0 license. Used for non-commercial research purposes only.”
+Failure to provide attribution revokes all rights granted by this license.
+________________________________________
+7. Termination
+This license is automatically terminated if:
+•	Any prohibited use occurs
+•	Attribution is removed
+•	SAF content is used commercially without permission
+•	This repository's contents are redistributed under a different license
+Upon termination, you must destroy all copies, forks, and derivatives.
+________________________________________
+8. Contact & Licensing Requests
+For commercial licensing, collaborations, or institutional agreements, contact:
+admin@skyteamaerospacefoundation.com
+________________________________________
+9. Acceptance
+Use of this repository constitutes automatic acceptance of all terms described herein.
